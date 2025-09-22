@@ -1,0 +1,1 @@
+#define G_MAP_IMAGE	1
